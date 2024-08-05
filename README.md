@@ -4,6 +4,8 @@ Experiment_4
 ## AIM - 
 To perform bitwise operations and set reset
 
+## Software - VS code
+
 ## Theory
 ### Expriment 4(a)
 Bitwise operators are used to perform operations on the binary representations of integers. They operate at the bit level and are fundamental for tasks that require efficient data manipulation, such as low-level programming, cryptography, and performance optimization. Bitwise operations are faster than arithmetic operations and can be used to implement various algorithms and data structures.
@@ -130,3 +132,5 @@ Resetting a bit involves changing the bit at a specific position to 0 while keep
    - Display the result of setting the bit: `cout << set;`.
 
 8. **End**
+## Conclusion:
+we have learned the bitwise operator and how to reset and set the bits.
